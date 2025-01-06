@@ -19,11 +19,20 @@ This repository contains a minimal example that can be cloned, installed and run
 ## Install
 
 - These instructions are for Mac and Linux (see below for Windows)
-- Once the repository has been cloned, open a terminal in the folder and run the installer with
+- Once the repository has been cloned, open a terminal in the folder
+- Add execute permissions to the installer script with
+```
+   chmod +x ./installer.sh
+```
+- Run the installer with
 ```
    ./installer.sh
 ```
 - This will create a new virtual environment and install the dependencies
+- Add execute permissions to the run script (one time only) with
+```
+   chmod +x ./run.sh
+```
 
 ## Run
 
