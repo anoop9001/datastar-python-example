@@ -8,6 +8,15 @@ Any backend technology can be used to power a Datastar site. This example uses P
 
 This repository contains a minimal example that can be cloned, installed and run. 
 
+Adapted from the Python example on the [Datastar website](https://data-star.dev/examples/python).
+
+---
+### Screenshot
+
+![Screenshot](screenshot.png)
+
+- Yes its ugly, its minimal!
+
 ---
 ### Overview
 
